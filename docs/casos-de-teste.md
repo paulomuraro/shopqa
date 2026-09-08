@@ -124,7 +124,9 @@ O sistema deve impedir o cadastro e informar que as senhas não são iguais.
 
 O sistema deve autenticar o usuário e direcioná-lo para a área autenticada.
 
-**Status:** Não executado
+**Status:** Aprovado
+
+**Resultado obtido:** O usuário foi autenticado com sucesso e conseguiu acessar a área de produtos.
 
 ---
 
