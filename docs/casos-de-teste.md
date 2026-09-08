@@ -128,6 +128,8 @@ O sistema deve autenticar o usuário e direcioná-lo para a área autenticada.
 
 **Resultado obtido:** O usuário foi autenticado com sucesso e conseguiu acessar a área de produtos.
 
+**Evidência:** [CT-004-login-sucesso.png](./evidencias/CT-004-login-sucesso.png)
+
 ---
 
 ## CT-005 — Login com senha incorreta
@@ -150,6 +152,8 @@ O sistema não deve permitir o acesso e deve apresentar uma mensagem informando 
 **Status:** Aprovado
 
 **Resultado obtido:** O sistema impediu o acesso e apresentou a mensagem "Epic sadface: Username and password do not match any user in this service".
+
+**Evidência:** [CT-005-login-senha-incorreta.png](./evidencias/CT-005-login-senha-incorreta.png)
 
 ---
 
