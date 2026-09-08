@@ -174,7 +174,11 @@ O sistema não deve permitir o acesso e deve apresentar uma mensagem informando 
 
 O sistema deve impedir o login e informar que os campos obrigatórios devem ser preenchidos.
 
-**Status:** Não executado
+**Status:** Aprovado
+
+**Resultado obtido:** O sistema impediu o acesso e apresentou a mensagem "Epic sadface: Username is required".
+
+**Evidência:** [CT-006-login-campos-vazios.png](./evidencias/CT-006-login-campos-vazios.png)
 
 ---
 
