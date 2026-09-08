@@ -147,7 +147,9 @@ O sistema deve autenticar o usuário e direcioná-lo para a área autenticada.
 
 O sistema não deve permitir o acesso e deve apresentar uma mensagem informando que as credenciais são inválidas.
 
-**Status:** Não executado
+**Status:** Aprovado
+
+**Resultado obtido:** O sistema impediu o acesso e apresentou a mensagem "Epic sadface: Username and password do not match any user in this service".
 
 ---
 
